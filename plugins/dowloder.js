@@ -134,7 +134,7 @@ ezra({
 
 // Video download command
 ezra({
-  nomCom: "video",
+  nomCom: "video2",
   aliases: ["videodoc", "film", "mp4"],
   categorie: "Fredi-Download",
   reaction: "🎥"
